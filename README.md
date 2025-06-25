@@ -22,7 +22,7 @@ Creating Vulnerability Assessment with help of 2 VM's Kali and Metasploit inside
 
 <p align="center">
 Found the openports using Nmap Scanner: <br/>
-<img src="https://imgur.com/a/5x6xLYp" height="80%" width="80%" alt="Nmap Steps Steps"/>
+<img src="https://imgur.com/a/ZujuSpt"/>
 <br />
 <br />
 
