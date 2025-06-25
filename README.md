@@ -21,8 +21,8 @@ Creating Vulnerability Assessment with help of 2 VM's Kali and Metasploit inside
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Found the openports using Nmap Scanner: <br/>
+<img src="https://imgur.com/a/WjDjmSQ" height="80%" width="80%" alt="Nmap Steps Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
